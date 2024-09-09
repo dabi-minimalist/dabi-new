@@ -74,6 +74,23 @@ h2 {
 .kit {
     margin-bottom: 20px;
 }
+.kit-image {
+    width: 100%;
+    max-width: 300px;
+    height: auto;
+    border-radius: 5px;
+}
+
+.buy-button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #00796b;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-top: 10px;
+    font-weight: bold;
+}
 
 footer {
     background-color: #fff;
